@@ -36,4 +36,6 @@ npm run lint
 
 ---
 
-use my-json-server.typicode.com/Code-Pop/Rewal-World_Vue-3
+DB:
+
+[my-json-server.typicode.com/Code-Pop/Rewal-World_Vue-3](https://my-json-server.typicode.com/etni/real-world-vue3/events)
