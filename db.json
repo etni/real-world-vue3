@@ -1,0 +1,67 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 5928101,
+      "category": "animal welfare",
+      "title": "Dog Adoption Day",
+      "description": "Come meet our furry friends and take home a new family member!",
+      "location": "123 Main St, Springfield, IL",
+      "date": "January 28, 2023",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Springfield Animal Shelter"
+    },
+    {
+      "id": 5928102,
+      "category": "community",
+      "title": "Community Cleanup",
+      "description": "Help us clean up the park and keep our community beautiful!",
+      "location": "456 Elm St, Springfield, IL",
+      "date": "February 4, 2023",
+      "time": "10:00",
+      "petsAllowed": false,
+      "organizer": "Springfield Parks Department"
+    },
+    {
+      "id": 5928103,
+      "category": "fundraiser",
+      "title": "Charity Auction",
+      "description": "Bid on unique items and experiences to support local charities!",
+      "location": "789 Oak St, Springfield, IL",
+      "date": "February 11, 2023",
+      "time": "18:00",
+      "petsAllowed": false,
+      "organizer": "Springfield Charity Foundation"
+    }
+  ]
+}
